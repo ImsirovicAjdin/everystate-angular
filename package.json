@@ -1,6 +1,6 @@
 {
   "name": "@everystate/angular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EveryState Angular adapter: usePath, useIntent, useWildcard, useAsync - bridges the reactive store to Angular signals",
   "type": "module",
   "main": "index.js",
